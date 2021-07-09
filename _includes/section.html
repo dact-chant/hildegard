@@ -1,0 +1,53 @@
+<a href="{{ site.baseurl }}">back</a>
+
+<dl style="padding-left:40px;" >
+{% for item in items %}
+
+  <dt style="float: left; ">{{ page.number }}.{{ item.number }}.</dt>
+  <dd class="expandable-container">
+    <button type="button" class="expandable-button">+</button>
+    <div class="collapsed-content">{{ item.content | truncate: 100}}</div>
+    <div class="expanded-content">{{ item.content }}
+      
+      {% if item.comments.size > 0 %}
+        <button type="button" class="collapsible">Comments ({{ item.comments.size }})</button>
+        <div class="collapsible-content">
+          {% for comment in item.comments %}
+            <div class="expandable-container" style="margin: 5px 0px 0px 0px;">
+              <button type="button" class="expandable-button">+</button>
+              <div class="collapsed-content">{{ comment.comment | truncate: 45}}</div>
+              <div class="expanded-content">{{ comment.comment }}<br/><div style="font-style: italic;float: right;"> {{ comment.author }} -- {{ comment.date }} </div></div>
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
+      
+      {% if item.urls.size > 0 %}
+        <button type="button" class="collapsible">URLS ({{ item.urls.size }})</button>
+        <div class="collapsible-content">
+          {% for url in item.urls %}
+            <div class="expandable-container" style="margin: 5px 0px 0px 0px;">
+              <!--<button type="button" class="expandable-button">+</button>-->
+              <div class="collapsed-content"><a href="{{ url }}">{{ url | truncate: 30}}</a></div>
+              <!--<div class="expanded-content"><a href="{{ url }}">{{ url }}</a></div>-->
+            </div>
+          {% endfor %}
+          
+        </div>
+      {% endif %}
+      
+      {% if item.translations.size > 0 %}
+        <button type="button" class="collapsible" >Translations ({{ item.translations.size }})</button>
+        <div class="collapsible-content" >
+          {% for translation in item.translations %}
+            <button type="button" class="collapsible" >{{ translation|first }}</button>
+            <div class="collapsible-content" >{{ translation|last }}</div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  </dd>
+{% endfor %}
+</dl>
+
+<script src='{{ site.baseurl }}/public/js/hildegard.js'></script>
