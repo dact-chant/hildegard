@@ -7,3 +7,6 @@ name: Medicinisches
 translations:
   - english: medical
 ---
+
+{% assign items = site.medical | sort: 'number' %}
+{% include section.html %}

@@ -7,3 +7,7 @@ name: Reliquien
 translations:
   - english: relics
 ---
+
+
+{% assign items = site.relics | sort: 'number' %}
+{% include section.html %}

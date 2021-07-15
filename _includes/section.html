@@ -1,12 +1,12 @@
-<a href="{{ site.baseurl }}">back</a>
+<a href="{{ site.baseurl }}#literature">back</a>
 
-<dl style="padding-left:40px;" >
+<dl style="padding-left:0px;" >
 {% for item in items %}
 
   <dt style="float: left; ">{{ page.number }}.{{ item.number }}.</dt>
-  <dd class="expandable-container">
+  <dd class="expandable-container" style="margin-left: 70px;margin-bottom:40px;">
     <button type="button" class="expandable-button">+</button>
-    <div class="collapsed-content">{{ item.content | truncate: 100}}</div>
+    <div class="collapsed-content">{{ item.content | strip_html |truncate: 100}}</div>
     <div class="expanded-content">{{ item.content }}
       
       {% if item.comments.size > 0 %}
@@ -15,8 +15,8 @@
           {% for comment in item.comments %}
             <div class="expandable-container" style="margin: 5px 0px 0px 0px;">
               <button type="button" class="expandable-button">+</button>
-              <div class="collapsed-content">{{ comment.comment | truncate: 45}}</div>
-              <div class="expanded-content">{{ comment.comment }}<br/><div style="font-style: italic;float: right;"> {{ comment.author }} -- {{ comment.date }} </div></div>
+              <div class="collapsed-content">{{ comment.comment | strip_html | truncate: 45}}</div>
+              <div class="expanded-content">{{ comment.comment }}<br/><div style="font-style: italic;text-align:right;"> {{ comment.author }} -- {{ comment.date }} </div></div>
             </div>
           {% endfor %}
         </div>
@@ -28,8 +28,8 @@
           {% for url in item.urls %}
             <div class="expandable-container" style="margin: 5px 0px 0px 0px;">
               <!--<button type="button" class="expandable-button">+</button>-->
-              <div class="collapsed-content"><a href="{{ url }}">{{ url | truncate: 30}}</a></div>
-              <!--<div class="expanded-content"><a href="{{ url }}">{{ url }}</a></div>-->
+              <div class="collapsed-content" style="font-size: 75%;"><a href="{{ url }}">{{ url | truncate, 75}}</a></div>
+              <!--<div class="collapsed-content"><a href="{{ url }}">{{ url }}</a></div>-->
             </div>
           {% endfor %}
           

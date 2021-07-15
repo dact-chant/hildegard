@@ -30,4 +30,10 @@ collections:
     output: false
   historical-biographical:
     output: false
+  medical:
+    output: false
+  general:
+    output: false
+  relics:
+    output: false
 

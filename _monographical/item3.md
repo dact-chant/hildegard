@@ -1,15 +1,13 @@
 ---
 number: 3
 translations:
-  english: A theological dissertation on the visions of St Hildegard, the examination of which M. David Christianus Langius Saxon of Wittenberg began in the most serene reign of the prince-elector Frederick Augustus and under the leadership of Martinus Chladenius, teacher and professor of holy theology."  From the printery of Vidua Gardensia in June 1716 at Wittenberg. 4to.  40pp. (Copy in Wittenberg)  [Trans. J. Docking]
-  german: I don't know german, but this should be some german translation
+  English: "St. Hildegard's birth, deeds, writings ([in] the <em>Acta Sanctorum Bolland</em>) = [is found as well in] J. P. Migne, <em>Patrologia Latina</em>, Volume 197, columns 9-90 (nn.1-213). [Trans. J. Bain]"
 comments:
-  - author: C. Geroux
-    date: 2021-07-09 09:45:??
-    comment: a longer comment to see how I want to handle really long comments a longer comment to see how I want to handle really long comments a longer comment to see how I want to handle really long comments a longer comment to see how I want to handle really long comments
-  - author:
-    date: 
-    comment: another comment
+  - author: J. Bain
+    date: 2011-12-11 00:35:07
+    comment: "Migne took this section of his volume devoted to Hildegard directly from the <em>Acta Sanctorum</em> listed in the item above."
+urls:
+  - https://books.google.ca/books?id=uPQQAAAAYAAJ
 ---
 
-Dissertatio Theologica | de | Visionibus HILDEGARDIS | quarum scrutinium | rectore academiæ magnificentissimo | serenissimo principe regio | domino | Friderico Augusto | ... | preside | MARTINO CHLADENIO | ss. theologiæ doctore ac professore |... | præsentium temporum causa | instituit | M. DAVID CHRISTIANUS LANGIUS | VVittebergensis Saxo | die Iunii A.|MDCCXVI. | Vittembergæ | Ex officina Viduæ Gerdesianæ. | 4to. 40 pp. (Exemplar in Wittenberg.)
+Sanctæ Hildegardis natales, res gestæ, scripta (<em>Acta Sanctorum Bolland</em>.) = MIGNE, <em>Patrologia</em>, t. 197 coll. 9-90. (nn.1-213.)

@@ -1,15 +1,15 @@
 ---
 number: 2
 translations:
-  english: A theological dissertation on the visions of St Hildegard, the examination of which M. David Christianus Langius Saxon of Wittenberg began in the most serene reign of the prince-elector Frederick Augustus and under the leadership of Martinus Chladenius, teacher and professor of holy theology."  From the printery of Vidua Gardensia in June 1716 at Wittenberg. 4to.  40pp. (Copy in Wittenberg)  [Trans. J. Docking]
-  german: I don't know german, but this should be some german translation
+  English: "JOH. STILTING, \"Concerning the virgin St. Hildegard, superior of the nuns of the order of St. Benedict in Rupertsberg near Bingen in the Diocese of Mainz.\" A commentary precedes it. In <em>Acta Sanctorum</em> [Bolland.] September, Vol. 5. Antwerp: 1755, pp.629-679, nn. 1-213.
+[Trans. J. Bain and J. Docking]
+"
 comments:
-  - author: C. Geroux
-    date: 2021-07-09 09:45:??
-    comment: a longer comment to see how I want to handle really long comments a longer comment to see how I want to handle really long comments a longer comment to see how I want to handle really long comments a longer comment to see how I want to handle really long comments
-  - author:
-    date: 
-    comment: another comment
+  - author: J. Bain
+    date: 2011-07-11 17:39:13
+    comment: "Volume 5 is the fifth volume for September. It's sometimes referred to as Vol. 45 in the series, although that numbering isn't given in the original. The URL here is to the 19th-century reprint of the volume."
+urls:
+  - https://archive.org/stream/actasanctorum45unse#page/n9/mode/2up
 ---
 
-Dissertatio Theologica | de | Visionibus HILDEGARDIS | quarum scrutinium | rectore academiæ magnificentissimo | serenissimo principe regio | domino | Friderico Augusto | ... | preside | MARTINO CHLADENIO | ss. theologiæ doctore ac professore |... | præsentium temporum causa | instituit | M. DAVID CHRISTIANUS LANGIUS | VVittebergensis Saxo | die Iunii A.|MDCCXVI. | Vittembergæ | Ex officina Viduæ Gerdesianæ. | 4to. 40 pp. (Exemplar in Wittenberg.)
+JOH. STILTING, De S. Hildegarde virgine, magistra sororum ord. S. Benedicti in Monte S. Ruperti juxta Bingium in Diœcesi Moguntina. Commentarius prævius. (<em>Acta Sanctorum</em> [<em>Bolland</em>.] <em>Septembris</em> . . . Tom. V. - Antverpiæ, 1755. fol. - pp. 629-679, nn.1-213.) 
