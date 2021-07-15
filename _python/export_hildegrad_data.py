@@ -80,7 +80,7 @@ def dbToJekyllItems(dbConnection):
   itemCount=0
   for item in items:
     
-    fileName="_"+catIDNameMap[item[1]]+"/item"+str(item[0])+".md"
+    fileName="_"+catIDNameMap[item[1]]+"/item_"+str(item[2])+".md"
     itemFile=open(fileName,'w')
     
     line="---\n"
