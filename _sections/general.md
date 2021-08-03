@@ -8,6 +8,5 @@ translations:
   - english: general, particularly the various assessment[s] of the holy Hildegard
 ---
 
-
 {% assign items = site.general | sort: 'number' %}
 {% include section.html %}

@@ -2,8 +2,8 @@
 title:               Hildegard
 tagline:             '1877 bibliography on the life and works of Hildegard of Bingen (1098-1179)'
 description:         'site description'
-url:                 
-baseurl:             '/cgeroux'
+url:                 # URL with domain name of site e.g. https://mysite.com
+baseurl:             # base url of site, could be '/' if in the web root directory or "/subdir" if a sub directory
 paginate:            5
 permalink:           pretty
 
@@ -20,7 +20,6 @@ plugins:
 # Custom vars
 version:             1.1.0
 google_analytics_id: #UA-XXXX-Y
-
 
 
 collections:
