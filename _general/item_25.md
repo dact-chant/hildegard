@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 25
 translations:
   English: "L. EL. DU PIN, New library of ecclesiastical authors. IX. p. 185. [Trans. J. Bock]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 17
 translations:
   English: "Vita S. GERLACI (1222—28), Acta Sanctorum Bolland., January vol. I. p. 309, § 8. \"It was at that time (St. Gerlach, died 1170) in the area of Mainz, there was a certain most holy virgin with the name Hildegard, the prophetess of the New Testament who was greatly renowned, with whom God spoke most familiarly and revealed heavenly secrets. Her …  crown, by which, on the day of her consecration she was crowned by the bishop, sent to him (Gerlach); which, as a witness of this thing, devoutly up until now (around 1225) is preserved in our church (in the monastery [of] St. Gerlach next to Maastricht).” [J. Bock]"

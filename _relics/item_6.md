@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 6
 translations:
   English: "Devotion to honour the holy Virgin and Abbess Hildegard, whose body rests in this Parish Church in Eibingen.  (To first mark the celebratory translation of her holy relics to the new altar on September 17, 1857.) With devotional  purpose. (With the Bishop's approval.) [Trans. J. Docking]"

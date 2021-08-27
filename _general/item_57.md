@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 57
 translations:
   English: "JOH. MICRÆLLII, Ecclesiastical history (5th Edition. Leipzig, 1699. 4to.), pp. 487, 590:

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 2
 translations:
   English: "JOH. STILTING, \"Concerning the virgin St. Hildegard, superior of the nuns of the order of St. Benedict in Rupertsberg near Bingen in the Diocese of Mainz.\" A commentary precedes it. In <em>Acta Sanctorum</em> [Bolland.] September, Vol. 5. Antwerp: 1755, pp.629-679, nn. 1-213.

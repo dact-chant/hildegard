@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 5
 translations:
   English: "St. Hildegard, Abbess of the Rupertsberg Convent near Bingen. A historical essay.

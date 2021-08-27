@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 30
 translations:
   English: "W. D. FUHRMANN, Concise dictionary about Christian religious and church history. (Halle, 1826—29. 8vo.) Vol. II. under \"Hildegard\". [Trans. J. Bock]"

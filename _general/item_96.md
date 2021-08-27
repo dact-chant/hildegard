@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 96
 translations:
   English: "GOTTL. STOLLE, Guide to the History of theological scholarship. (Jena, 1739. 4to.) p.

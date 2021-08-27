@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 11
 translations:
   English: "JUST. BLANCKWALT, The life of Hildegard according to Trithemius. (Book of letters, Cologne 1566, bl. a3.) [Trans. J. Bock]

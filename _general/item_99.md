@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 99
 translations:
   English: "JOH. TAULER, Marrow of the soul, chapter 62. Compare: A prediction or prophecy of the sublime and enlightened theologian, D. John Tauler, found in old manuscripts. ([Hildegard], Book of Letters, Cologne. 1566, bl. a 3 verso- bl. a 4 verso). From these interpolations gradually formed the bibliographic myth: TAULER, Preface to the letters of Hildegard. [Trans. J. Bock and J. Bain]"

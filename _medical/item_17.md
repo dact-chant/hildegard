@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 17
 translations:
   English: "E. MEYER, History of Botany. III. p. 517. Vorr. IV. [Trans. J. Bain]

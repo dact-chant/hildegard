@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 15
 translations:
   English: "M. LIPENIUS, Classified Medical Library, p. 180. (Frankfurt, 1679. fol.) [Trans. S. Docking]"

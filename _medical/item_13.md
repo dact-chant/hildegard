@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 13
 translations:
   English: "CHR. GUIL. KESTNER, Medical library. (Jena, 1746. 8vo.) pp. 342-344. [Trans. J. Bain]"

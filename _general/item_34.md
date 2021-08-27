@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 34
 translations:
   English: "VAL. FERD. DE GUDENUS, Codex diplomaticus [Collected Historical Documents]. (Göttingen, 1743. 4to.) pp. 229, 245. Vol. 5, p. 1110. [Trans. S Docking]"

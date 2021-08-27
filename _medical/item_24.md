@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 24
 translations:
   English: "R. VIRCHOW, On the History of Leprosy (makes comment on Hildegard’s medical materials; in vol. XXII of his <em>Archiv</em> [<em>für pathologische Anatomie und Physiologie und für klinische Medizin</em>]?). [Trans. J. Docking]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 97
 translations:
   English: "(V. STRAMMBERG:) Rhenish antiquities - Middle Rhine. Second Division, Vol. 9, (Coblenz, 1860. 8vo.) pp. 520-542: \"Saint Hildegard\". Compare p. 394: The Rupertsberg. - 2nd Division, Vol. 2, p. 535. [Trans. J. Bock]"

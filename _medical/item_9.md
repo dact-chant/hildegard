@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 9
 translations:
   English: "DR. CHR. FRIEDR. HARLESS, The contributions of women to the natural sciences and medicine. (Göttingen, 1830. 8vo.) pp. 138-140: Hildegardis de Pingua (de Bingia). Note p. 73. [Trans. J. Bain]"

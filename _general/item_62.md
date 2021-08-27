@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 62
 translations:
   English: "DR. REGINALD PECOCK (born c.1395), The Repressor. (ed. Churchill Babington.

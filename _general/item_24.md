@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 24
 translations:
   English: "M. A. DELRIO, Disquisition on magic [in six] books. [Book] IV. I. (Venice, 1746. 4to.) p. 3. [Trans. J. Bock]"

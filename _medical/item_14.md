@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 14
 translations:
   English: "C. A. KORTUM, Sketches of a time and literary history of pharmacology. Unna, 1809. 8vo.) p. 191. (\"Hildegard's [book] . . . Physik . . . is the first and oldest original work of this kind to be seen in Germany.\") [Trans. J. Docking and J. Bain]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 23
 translations:
   English: "LUDW. GRAF. UETTERODT ZU SCHAFFENBERG, On the History of Medicine. (Berlin, 1875. 8vo) p. 47 * * *). [Trans. J. Bain]"

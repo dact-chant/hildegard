@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 9
 translations:
   English: "BÉRAULT-BERCASTEL. History of the Church. XVII. (Besançon, 1820. 8vo.) p. 487."

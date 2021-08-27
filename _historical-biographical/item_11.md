@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 11
 translations:
   English: "Proceedings of the enquiry into the virtues and miracles of the holy Hildegard. (Ludwig Clarus, already cited, pp.26-37.) [Trans. J. Bain]"

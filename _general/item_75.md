@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 75
 translations:
   English: "JOH. FRIEDR. REIMANS, Attempt at an introduction to literary history. II. (Halle, 1709. 8vo.) pp. 204- 6, question 96. What in particular should I keep of Hildegard? pp. 307-8, fr. 223. Why should St. Hildegard join the ranks of the natural sciences? (We must also give her the honor that she was the first among these Germans who wrote a natural science book.) [Trans. J. Bock]"

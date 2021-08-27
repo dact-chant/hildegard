@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 13
 translations:
   English: "Aloys Schreiber, Pocketbook for travelling on the Rhine. (Heidelberg, 1821. 8vo) p.22. (About a prayerbook allegedly given by St. Bernhard to St. Hildegard, and a ring with the inscription: I suffer gladly, presently in Eibingen; the nun M.W.E. Ritterich, † 6 January, 1836, however, took the ring to Hattenheim and gave it away.) [Trans. J. Bain]"

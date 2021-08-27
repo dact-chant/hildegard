@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 66
 translations:
   English: "DR. HOEFER, New general biography. XXIV. (Paris, Didot brothers. 1861,

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 84
 translations:
   English: "JOA. SARESBERIENSIS, Letters of St. Thomas (died 1170) Book I. Letter 117. (Stilting, no.34.) [Trans. J. Bock]"

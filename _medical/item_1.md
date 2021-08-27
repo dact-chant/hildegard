@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 1
 translations:
   English: "Concerning books on the sciences by St. Hildegard: a historical and medical commentary.  Author F.A. Reuss, Doctor (philosophy and medicine), University of Würzburg. Ph.D. Würzburg: Stahel, 1835.  8vo. XX+ (73) pp. [Trans. J. Docking and J. Bain]"

@@ -1,51 +1,47 @@
-<a href="{{ site.baseurl }}#literature">back</a>
 
-<dl style="padding-left:0px;" >
+<button type="button" id="print_button">switch to printable view</button>
+<dl id="online" style="padding-left:0px;display:block;" >
 {% for item in items %}
+  
+  <dt style="float: left; "><a name="item_{{ item.number }}"></a>{{ page.number }}.{{ item.number }}.</dt>
+  <dd style="margin-left: 70px;margin-bottom:40px;">
+    {{ item.content |markdownify|strip_html|truncate: 100}}<span style="float:right;"><a href="{{ site.baseurl }}{{ item.url }}">read more</a></span>
+  </dd>
+{% endfor %}
+</dl>
 
-  <dt style="float: left; ">{{ page.number }}.{{ item.number }}.</dt>
-  <dd class="expandable-container" style="margin-left: 70px;margin-bottom:40px;">
-    <button type="button" class="expandable-button">+</button>
-    <div class="collapsed-content">{{ item.content | strip_html |truncate: 100}}</div>
-    <div class="expanded-content">{{ item.content }}
-      
-      {% if item.comments.size > 0 %}
-        <button type="button" class="collapsible">Comments ({{ item.comments.size }})</button>
-        <div class="collapsible-content">
-          {% for comment in item.comments %}
-            <div class="expandable-container" style="margin: 5px 0px 0px 0px;">
-              <button type="button" class="expandable-button">+</button>
-              <div class="collapsed-content">{{ comment.comment | strip_html | truncate: 45}}</div>
-              <div class="expanded-content">{{ comment.comment }}<br/><div style="font-style: italic;text-align:right;"> {{ comment.author }} -- {{ comment.date }} </div></div>
-            </div>
-          {% endfor %}
-        </div>
-      {% endif %}
-      
-      {% if item.urls.size > 0 %}
-        <button type="button" class="collapsible">URLS ({{ item.urls.size }})</button>
-        <div class="collapsible-content">
-          {% for url in item.urls %}
-            <div class="expandable-container" style="margin: 5px 0px 0px 0px;">
-              <!--<button type="button" class="expandable-button">+</button>-->
-              <div class="collapsed-content" style="font-size: 75%;"><a href="{{ url }}">{{ url | truncate, 75}}</a></div>
-              <!--<div class="collapsed-content"><a href="{{ url }}">{{ url }}</a></div>-->
-            </div>
-          {% endfor %}
-          
-        </div>
-      {% endif %}
-      
-      {% if item.translations.size > 0 %}
-        <button type="button" class="collapsible" >Translations ({{ item.translations.size }})</button>
-        <div class="collapsible-content" >
-          {% for translation in item.translations %}
-            <button type="button" class="collapsible" >{{ translation|first }}</button>
-            <div class="collapsible-content" >{{ translation|last }}</div>
-          {% endfor %}
-        </div>
-      {% endif %}
-    </div>
+<dl id="printable" style="padding-left:0px;display:none;" >
+{% for item in items %}
+  
+  <dt style="float: left; "><a name="item_{{ item.number }}"></a>{{ page.number }}.{{ item.number }}.</dt>
+  <dd style="margin-left: 70px;margin-bottom:40px;">
+  
+  {{ item.content |markdownify}}
+  {% if item.comments.size > 0 %}
+  <h2>Comments</h2>
+  {% for comment in item.comments %}
+  {{ comment.comment }}
+  <div style="font-style: italic;text-align:right;">{{ comment.author }} -- {{ comment.date }}</div>
+  {% endfor %}
+  {% endif %}
+  {% if item.urls.size > 0 %}
+  <h2>URLs</h2>
+  <ul>
+  {% for url in item.urls %}
+  <li><a href="{{ url }}">{{ url }}</a></li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+  {% if item.translations.size > 0 %}
+  <h2>Translations</h2>
+  <dl>
+  {% for translation in item.translations %}
+  <dt> {{ translation|first }} </dt>
+  <dd> {{ translation|last }} </dd>
+  {% endfor %}
+  </dl>
+  {% endif %}
+  
   </dd>
 {% endfor %}
 </dl>

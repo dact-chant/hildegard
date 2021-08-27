@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 92
 translations:
   English: "JOH. MATT. SCHRÖCKH, Christian Church History. XXVIII. (Leipzig, 1799. 8vo.) pp. 16- 28: St. Hildegard’s Revelations. pp. 28- 31: The visions of St. Elisabeth. [Trans. J. Bock]"

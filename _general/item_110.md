@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 110
 translations:
   English: "W. WATTENBACH, Germany's historical sources in the Middle Ages to the mid-13th century. Berlin, 1873. 8vo.) I. p. 35; II. pp. 117, 174, 302, 306. [Trans. J. Bock]"

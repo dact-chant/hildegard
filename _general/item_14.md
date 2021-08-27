@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 14
 translations:
   English: "G. CHR. BRAUN, The Rhine-journey, a portrait of nature and society in the Rhineland in three songs [cantos?]. (Mainz 1824, 8vo.) pp. 278 ff. [Trans. J. Bock]"

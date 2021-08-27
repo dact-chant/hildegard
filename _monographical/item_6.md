@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 6
 translations:
   English: "The Life of the holy Hildegard. (The Life and Writings of the holy Hildegard...) [Trans. J. Bain]"

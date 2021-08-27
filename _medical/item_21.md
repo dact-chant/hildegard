@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 21
 translations:
   English: "DR. A. RITTMANN, Outlines of a history of pathology. (Brünn, 1868. 8vo.) p. 156. [Trans. J. Bain]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 4
 translations:
   English: "The chief points of the councils. [Trans. J. Docking]"

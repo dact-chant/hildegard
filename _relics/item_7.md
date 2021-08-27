@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 7
 translations:
   English: "The holy Hildegard, Virgin and Abbess... On the other side: holy Virgin and Abbess Hildegard, Founder of the Rupertsberg and Eibingen Abbeys, asking God to enlighten the spiritually blind. (Includes three pictures: St. Hildegard healing a child born blind, in Rüdesheim.  Rupertsberg Abbey 1632.  Eibinginen Abbey 1857.)  Lithograph by J. P. Haas, Mainz. (With the copy in our Library can be found a letter written by Parish Priest, Ludwig Schneider, dated June 18, 1861, in which he says: \"in connection with the 

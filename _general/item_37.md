@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 37
 translations:
   English: "CHRYSOST. HENRIQUEZ, Monthly Cistercian Almanac. (Antwerp, 1630. Subsequent edition[s].) p. 316. (Stilting, no. 26.) [Trans. J. Bain] "

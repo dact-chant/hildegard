@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 5
 translations:
   English: "Index of the most outstanding relics, or means of healing, reverently preserved in the most noble cloister of Eibingen, and each year on the afternoon of the celebration of Mary’s birth at all hours they are made available not only to be shown, but also to be kissed, with the pictures and rosaries to be caressed. At that time, too, water is blessed and into it many holy relics are dipped, and all who ask are given some to  take away with them; it then is a cure for all kinds of illness, each person according to his belief.  With the permission of the Superiors at Mainz,

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 42
 translations:
   English: "Dr. G. KLEMM, Women. Cultural-historical portrayals. IV. (Dresden, 1857. 8vo.) pp. 154-156[sup]51. [Trans. J. Bock]"

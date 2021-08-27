@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 35
 translations:
   English: "W. GÜNTHER, Codex diplomaticus [Collected Historical Documents] for the Rhine-Moselle region. I. (Koblenz, 1822. 8vo.) p. 448 (I). [Trans. S. Docking]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 10
 translations:
   English: "Proceedings of the enquiry concerning the virtues and miracles of the holy Hildegard. [Trans. J. Bain]"

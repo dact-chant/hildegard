@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 6
 translations:
   English: "Epitome of the Library, C. GESSNERI . . . per JOS. SIMLER. (Zürich, 1555. fol.) p. 97. [Trans. S. Docking]

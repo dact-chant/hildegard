@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 91
 translations:
   English: "DR. SCHMITT, The Helen spa in Bingen. (1844.) p. 31. [Trans. J. Bock]"

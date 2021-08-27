@@ -1,10 +1,10 @@
 # Setup
 title:               Hildegard
 tagline:             '1877 bibliography on the life and works of Hildegard of Bingen (1098-1179)'
-description:         'site description'
-url:                 # URL with domain name of site e.g. https://mysite.com
-baseurl:             # base url of site, could be '/' if in the web root directory or "/subdir" if a sub directory
-paginate:            5
+description:         'Hildegard - 1877 bibliography'
+url:                 http://chrisgeroux.xyz # URL with domain name of site e.g. https://mysite.com, should not contain trailing "/"
+baseurl:             /hildegard # base url of site, could be '/' if in the web root directory or "/subdir" if a sub directory
+#paginate:            5
 permalink:           pretty
 
 # About/contact
@@ -14,25 +14,24 @@ author:
   email:             author email
 
 # Gems
-plugins:
-  - jekyll-paginate
+#plugins:
+#  - jekyll-sitemap
+#  - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
-
+google_analytics_id: UA-203459783-1
 
 collections:
   sections:
     output: true
   monographical:
-    output: false
+    output: true
   historical-biographical:
-    output: false
+    output: true
   medical:
-    output: false
+    output: true
   general:
-    output: false
+    output: true
   relics:
-    output: false
+    output: true
 

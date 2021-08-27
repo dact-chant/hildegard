@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 10
 translations:
   English: "Kath. Emmerich, The bitter suffering of Christ. (8th edition, Munich, 1852. 8vo.) Preface by Clemens Brentano, pp. XVIII, XLIV, XLVI. Compare Clarus in the book already cited, p. 24; II. p. 207. (The relic, that is discussed there, was returned to Eibingen by Parish Priest [Ludwig] Schneider.) [Trans. J. Bock]"

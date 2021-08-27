@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 2
 translations:
   English: "Sacred Councils ... volume 10.

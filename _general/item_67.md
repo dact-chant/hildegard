@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 67
 translations:
   English: "PIERER’S Universal dictionary of the past and the present. VIII. Altenburg, 1859. Gr. 8vo.) p. 374: Hildegard. [Trans. J. Bock]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 20
 translations:
   English: "G. A. PRITZEL. Thesaurus of botanical literature  Nr. 4459. (Leipzig, 1851. 4to.) [Trans. J. Bain]"

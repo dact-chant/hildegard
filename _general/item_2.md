@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 2
 translations:
   English: "J. A. ALTSTEDIUS, The Thesaurus of chronology. (Ed. 4a. Herbornæ Nassoviorum [Herbs [or Herbals?] of Nassau], 1650. 8vo.) p. 389, [Hildegard mentioned] at the year 1170. [Trans. J. Bock]

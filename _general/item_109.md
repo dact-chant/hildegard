@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 109
 translations:
   English: "JOH. GERH. VOSSIUS, Concerning Theology, Gentile and Christian physiology, or about the origin and development of idolatry. (Amsteld., 1641- 69. 4to.) Chapter. 87, 88. Compare his writing: Of Latin history, I. 2nd chapter. 53. p. m. 435. [Trans. S. Docking]"

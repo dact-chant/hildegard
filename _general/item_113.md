@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 113
 translations:
   English: "H.J. WETZER U. B. WELTE, Church dictionary or encyclopedia of catholic theology. Vol. V (Freiburg im Breisgau 1860. 8vo) pp. 188-190: The holy Hildegard. Compare Vol. I, 840; Vol. III, 497,531, 744, 889; Vol. XI, 1150; Vol. XII, 295. [Trans. J. Bock]"

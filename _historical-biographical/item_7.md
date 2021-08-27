@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 7
 translations:
   English: "Middle Rhine Register. [Trans. J. Docking]"
@@ -7,7 +8,6 @@ comments:
     date: 2016-08-25 10:28:40
     comment: "I've included URLs for the first two volumes of Mittelrheinische Regesten."
 urls:
-  - 
   - https://archive.org/details/bub_gb_Us9BAQAAMAAJ
 ---
 

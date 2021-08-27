@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 86
 translations:
   English: "HARTMANN SCHEDEL, The book of chronicles from the beginning of the world [ab origine mundi or ab initio mundi]. (Nuremberg: Koberger, July 12th, 1493. Subsequent edition[s]. With woodcuts by Wolgemut and Pleydenwurff.) Folio: CCI (See register). The virgin Hildegard had a wonderful spirit of prophecy. Fol. 201v. A woodcut: Hildegard (with halo and palm branch). In a German edition, with the same woodcuts, Nuremberg 1493, Augsburg 1496 and 1500. [Trans. J. Bock and J. Bain]"

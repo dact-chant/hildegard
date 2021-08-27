@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 39
 translations:
   English: "GEO. CHR. IOANNIS, Documents of ancient literature until now not yet published. (Frankfurt on the Main, 1724. 8vo.) pp. 69-248: Documents of Disibodenberg. With a copperplate: Ruins of Disibodenberg monastery. Compare the index IV, Hildegard. [Trans. J. Bain]"

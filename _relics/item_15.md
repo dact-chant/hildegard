@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 15
 translations:
   English: "J.H. von Hefner-Altneck, Traditional Costumes of the Christian Middle Ages. (Frankfurt am Main, 1840-54, 4to) Volume I. Plate 38 (Comb of St. Hildegard † 1179), on pp. 55 and 56. [Trans. J. Bain]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 29
 translations:
   English: "CLAUD. FLEURII abbot, Ecclesiastical history. t. XVII. (August. Vind. 1762. Kl. 8vo.)

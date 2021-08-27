@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 55
 translations:
   English: "MATTHEW PARIS, Benedictine monk of St. Albans (died 1259), Chronicle from the year 1066 to 1259. (London, 1571. Appears frequently in other places subsequently.) [Hildegard referenced] at the year 1241. [Trans. J. Bain]"

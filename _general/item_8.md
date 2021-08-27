@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 8
 translations:
   English: "J. J. BAUER, Universal library of rare books. II. (Nürnberg, 1771. 8vo.) p. 112. Supplement III. (1791.) p. III. [Trans. J. Bock]"

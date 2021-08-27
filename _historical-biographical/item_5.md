@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 5
 translations:
   English: "Ecclesiastical annals from the birth of Christ to the year 1198. [Trans. J. Docking]"

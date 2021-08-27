@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 16
 translations:
   English: "J. J. MANGET, Library of medical writings. III. p. 506. (Geneva, 1731. Subsequent editions.) [Trans. J. Bain]"

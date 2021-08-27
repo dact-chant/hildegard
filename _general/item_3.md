@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 3
 translations:
   English: "GOTTFRID ARNOLDS, Non-partisanal church and heretic history. (Frankfurt am Main, 1699 and following.) Part I. Vol. XII. Chap. IV. § 8. Hildegard. [Trans. J. Bock]"

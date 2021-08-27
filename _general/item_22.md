@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 22
 translations:
   English: "FRA. PET. CRATEPOLIUS, Concerning bishops and orthodox teachers of Germany. (Cologne. 1592.) p. 85. St. Hildegard. - p. 54. Elizabeth Schonau. [Trans. J. Bain]"

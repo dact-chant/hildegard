@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 31
 translations:
   English: "PH. W. GERCKEN, Journeys through Swabia, etc. III. (Stendal 1786. 8vo.) pp. 95, 97. [Trans. J. Bock]"

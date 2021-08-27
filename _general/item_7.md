@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 7
 translations:
   English: "P. HERMANN BÄR, Diplomatic history of Eberbach Abbey in the Rheingau...by Dr. K. Rossel. I. (Wiesbaden, 1855. 8vo.) pp. 247- 285. [Trans. J. Bock]"

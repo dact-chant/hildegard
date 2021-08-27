@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 46
 translations:
   English: "Idem. [N. LENGLET DU FRESNOY], Historical and dogmatic treatise concerning apparitions, visions and particular revelations. (Paris 1751. 12mo.) Chapter X. [Trans. J. Bock]"

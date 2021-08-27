@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 59
 translations:
   English: "Idem [DR. AUG. NEANDER], St. Bernhard and his time. (2nd edition, Hamburg, 1848. 8vo.) pp. 210, 300. [Trans. J. Bock]"

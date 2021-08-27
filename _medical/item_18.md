@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 18
 translations:
   English: "PASCHALIS GALLUS, Medical Library. p. 281 (Basel, 1590. 8vo.) [Trans. J. Bain]"

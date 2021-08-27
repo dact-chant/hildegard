@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 103
 translations:
   English: "JOH. TRITHEMIUS, Historical works, ed. Marqvard Freher. (Frankfurt, 1601. Subsequent editions) Vol I: Catalogue of famous men, p. 138. Concerning ecclesiastical writers p. 281. Vol. II: Chronicle of the monastery of Hirsau, in the diocese of Speyer, order of St. Benedict, from 830 AD up until 1370 (pp. 133-136: The Books which St. Hildegard composed through revelations; p. 145, at the year 1160: St. Hildegard comes to Hirsau; p. 156, at the year 1180 [!]: St. Hildegard dies.) Chronicle of the monastery of Sponheim. p. 247 at the year 1136 (Jutta died. St. Hildegard of Böckelheim enclosed in the year 1112); p. 250 at the year 1148 (St. Hildegard foundress of the monastery of St. Rupert); p. 257 at the year 1180: (St. Hildegard's wisdom); p. 410 at the year 1498 (our Abbot, Joh. Trithemius obtained the relics of St. Hildegard.) [Trans. J. Bain]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 3
 translations:
   English: "German Councils, volume 3.

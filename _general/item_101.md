@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 101
 translations:
   English: "Universal theological encyclopedia. (Elberfeld, 1874. Gr. 8vo.) I. p. 354: the holy Hildegard. [Trans. J. Bock]"

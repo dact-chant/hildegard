@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 70
 translations:
   English: "AUG. POTTHAST, Historical Library of the Middle Ages. (Berlin, 1862. 8vo.) pp. 293, 329,

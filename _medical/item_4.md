@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 4
 translations:
   English: "L. CHOULANT, Handbook of booklore for old medicine. 2nd edition. (Leipzig, 1841. 8vo.) pp. 302 ff. [Trans. J. Bain]"

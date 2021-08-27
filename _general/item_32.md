@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 32
 translations:
   English: "JOS. GÖRRES, Christian mysticism. Vol. I. (Regensburg, 1836. 8vo.) p. 285; Vol. II. pp. 152, 210. [Trans. J. Bock]

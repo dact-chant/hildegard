@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 28
 translations:
   English: "FLACIUS, Catologue of witnesses to the truth. p. 1487 (has published \"the prophecies of Hildegard together with certain verses of the Sybil [i.e. Hildegard] separately\"). [Trans. J. Bain]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 1
 translations:
   English: "Alberic the monk (around 1246). Chronicle from the beginning of the world up until the year 1241 (editor G[odfrid] [Wilhelm]  Leibniz, Hannover 1698, 4to. Special edition [extracted] from his [Leibniz'] Historical compilations, in which are contained mainly writers on German and other events until now unpublished. Leipzig 1698. I.) [Hildegard mentioned ] at the years 1099, 1141 (Stilting, no. 351), 1153, 1155, 1170. (Life, visions and works of St. Hildegard.) [Trans. J. Bain]"

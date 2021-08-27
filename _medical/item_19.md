@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 19
 translations:
   English: "CH. F. PAULLINI, High- and most learned German Gentlewomen. (Frankfurt, 1712. 8vo.) p. 72. (“who, however has done nothing more than elaborate Vossius [Gerardus Johannis Vossius 1577-1649] in written form and mention one point from the mass of material in his Mirror of Nobility.” Reimann.) [Trans. J. Docking and J. Bain]"

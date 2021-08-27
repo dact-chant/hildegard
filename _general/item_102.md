@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 102
 translations:
   English: "JOH. Trithemius, A book of ecclesiastical writers. From [Frederic] Spanhem, 1492.

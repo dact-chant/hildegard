@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 26
 translations:
   English: "J. C. EBERT, The cabinet of an educated gentlewoman. (Frankfurt, 1706. 8vo.) pp. 184ff. [Trans. J. Bock]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 5
 translations:
   English: "F. V. ANDLAW, Women in history. I. (Mainz, 1861. 8vo) p. 171. [Trans. J. Bock]"

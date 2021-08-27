@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 72
 translations:
   English: "A. RÄSS und N. Weis, Lives of the [Church] fathers and martyrs. (Mainz, 1821, 1837 ff. 8vo.) XIII. p. III. [Trans. J. Bock]"

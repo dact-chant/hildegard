@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 44
 translations:
   English: "JOH. LAICUS, Legends of the Saints. Edited in association with others. II. (Mainz, 1854. 12mo.) pp. 97-120: Ida Hahn-Hahn, \"St. Hildegard\". Compare. p. 163: \"This writing (of St. Brigitta, 1302-73), as well as that of St. Hildegard...were never and will never be listed as an article of faith by the Holy Church, but rather taken only as very edifying and composed in the spirit of Catholic teaching of faith\". [Trans. J. Bain]"

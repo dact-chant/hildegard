@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 3
 translations:
   English: "Supplex Colonia a marvellous procession of the chorus of the saints celebrated for eight days in succession in the year 1634, being of the greatest danger to the Empire. Now exhibited along with a brief and authentic history of the Saints of Cologne. By R. D. Aegidium...(at Cologne, 1639, 4to) para. 283. Head of St. Rupert... para. 291. St. Hildegard. Head with tongue, and the same Saint's heart... (Copy in Mainz)

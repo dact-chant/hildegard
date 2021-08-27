@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 40
 translations:
   English: "CHR. G. JÖCHER, General academic dictionary, II. (Leipzig, 1750. 4to.) col. 1601: St. Hildegard, an educated abbess, etc., signed: C. O. T. Fa. [Trans. J. Bock]"

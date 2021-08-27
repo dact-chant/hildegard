@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 68
 translations:
   English: "J. C. V. PFISTER, History of the Germans. (Hamburg, 1829-35. 8vo.) Vol. II. p. 355. [Trans. J. Bock]"

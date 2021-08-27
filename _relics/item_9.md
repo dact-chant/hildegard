@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 9
 translations:
   English: "Sermon about the worship of the relics, delivered at the translation of St. Hildegard’s relics in Eibingen, on the 17th September 1857 by Dr. J. B. Heinrich, cathedral canon, in Mainz, Mainz F. Kirchheim, 1857, 8vo. 16pp. [Trans. J. Bock]"

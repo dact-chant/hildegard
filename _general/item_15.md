@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 15
 translations:
   English: "C. BROWERUS, Chronicles of Trier (Liège, 1670 fol.) [Hildegard mentioned] at the year 1171. [Trans. J. Bain]"

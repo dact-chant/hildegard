@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 11
 translations:
   English: "K. D. HÜLLMANN, City life in the Middle Ages. Vol. I. (Bonn, 1826. 8vo.) p. 37. [Trans. J. Bain]"

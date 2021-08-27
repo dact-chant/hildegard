@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 95
 translations:
   English: "F. L. STOLBERG, History of the religion of Jesus Christ. XLII. (Mainz, 1846. 8vo.) pp. 83- 90, 614- 617. [Trans. J. Bock]"

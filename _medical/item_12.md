@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 12
 translations:
   English: "DR. C. JESSEN, Botany in Cultural-historical development. (Leipzig, F. A. Brockhaus, 1862. 8vo.) pp. 124-126. [Trans. J. Bain]"

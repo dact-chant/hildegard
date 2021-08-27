@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 63
 translations:
   English: "PROF. DR. MAXIMILIAN PERTY, The current spiritualism and related experiences in the past and in the present. (Leipzig, 1877. 8vo.) p. 280. \"About American mediums, who, inspired by ghosts, automatically write, speak, make music, draw, paint,\" and whose \"language, writings, drawings, although sometimes strange enough, are unintelligible.\" Compare especially p. 68. [Trans. J. Bock]"

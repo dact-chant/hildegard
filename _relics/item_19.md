@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 19
 translations:
   English: "Adornments, chasubles, relics & monstrances of the parish church in Friedberg, which will be offered for public sale in Friedberg, 1822. 8vo, Page IX.  In Freiberg a part of Hildegard’s garment & undergarment is auctioned [in] 1822 (to where?). The mentioned place, along with other important written notes, have been ordered for print by Parish Priest Mr. Dr. FRANZ FALK from Mombach in: Organ for Christian art, Cologne 1872, n. 18, p. 213. [Trans. J. Bock]"

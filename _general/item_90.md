@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 90
 translations:
   English: "H. SCHMID, The mysticism of the Middle Ages. (Jena, 1824. 8vo.) pp. 83 ff. [Trans. J. Bock]"

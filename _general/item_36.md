@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 36
 translations:
   English: "F. H. v. d. Hagen. Ministrels. III. (Leipzig, 1838. 4to.) p. 468h, col. 2, n. 4. (\"Now I want to press together with joy. Sybil, tell me through Christ … Lady Hildegard of Bingen, in the book it is written,\" Etc.) [Trans. J. Bock]"

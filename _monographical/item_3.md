@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 3
 translations:
   English: "St. Hildegard's birth, deeds, writings ([in] the <em>Acta Sanctorum Bolland</em>) = [is found as well in] J. P. Migne, <em>Patrologia Latina</em>, Volume 197, columns 9-90 (nn.1-213). [Trans. J. Bain]"

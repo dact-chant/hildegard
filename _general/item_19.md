@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 19
 translations:
   English: "J. C. COLQUHOUN, Historical revelations about the secret sciences of all times and all peoples...edited by Dr. Hugo Hartmann. (Weimer, 1853. 8vo.) pp. 301- 309: Story of St. Hildegard and her ecstatic visions. (Original title: <em>An History of Magic, Witchcraft and Animal Magnetism</em>. Edinburgh, 1852.) [Trans. J. Bock]"

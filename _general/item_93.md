@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 93
 translations:
   English: "JOH. PET. SCHUNK, Contributions to the history of Mainz. I. (Mainz, 1788. Kl. 8vo.) pp.

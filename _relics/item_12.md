@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 12
 translations:
   English: "In 1498 Trittenheim acquired an arm of St. Hildegard for Sponheim: “Three bones and a piece of a rib” were in the Jesuit order in Munich [in] 1674. Compare: GERNING, The Rhine areas (Wiesbaden, 1819. 8vo.) pp. 101—2. [Trans. J. Bock]"

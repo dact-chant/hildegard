@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 89
 translations:
   English: "J. S. ERSCH und J. G. GRUBER, General Encyclopedia. Second section. VIII. (Leipzig, 1831. 4to.) pp. 126-130. H. Schmid, \"St. Hildegard\". [Trans. J. Bock]

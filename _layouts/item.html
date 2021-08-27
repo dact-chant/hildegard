@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+{% for document in site.documents -%}
+{% if document.layout == "section" -%}
+{% assign document_name=document.path |split : "/" | last -%}
+{% assign document_name=document_name |split : "." | first -%}
+{% if document_name == page.collection -%}
+{% assign collection_number=document.number -%}
+{% assign collection_url=document.url -%}
+{% endif -%}
+{% endif -%}
+{% endfor -%}
+
+<h1 style="font-family: \"PT Serif\", Georgia, \"Times New Roman\", serif;"><a href="{{ site.baseurl }}{{ collection_url }}#item_{{ page.number }}">{{ collection_number }}</a>.{{ page.number }}</h1>
+{{ content }}
+{% if page.comments.size > 0 -%}
+<h2>Comments</h2>
+{% for comment in page.comments -%}
+{{ comment.comment }}
+<div style="font-style: italic;text-align:right;">{{ comment.author }} -- {{ comment.date }}</div>
+{% endfor -%}
+{% endif -%}
+{% if page.urls.size > 0 -%}
+<h2>URLs</h2>
+<ul>
+{% for url in page.urls -%}
+<li><a href="{{ url }}">{{ url }}</a></li>
+{% endfor -%}
+</ul>
+{% endif -%}
+{% if page.translations.size > 0 -%}
+<h2>Translations</h2>
+<dl>
+{% for translation in page.translations -%}
+<dt>{{ translation|first }}</dt>
+<dd>{{ translation|last }}</dd>
+{% endfor -%}
+</dl>
+{% endif -%}

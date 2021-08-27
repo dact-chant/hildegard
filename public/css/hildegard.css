@@ -1,0 +1,12 @@
+button{
+  background-color: #202020;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: white;
+  padding:10px;
+  border:0px;
+}
+button:hover{
+  background-color: #373737;
+  cursor:pointer;
+}

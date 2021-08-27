@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 81
 translations:
   English: "ERICUS RHONÆUS [anagrammatic pseudonym for Heinricus Oraeus] NEOPATRENSIS, Ideas of the reforming Antichrist. Vol. I. Part II. Sect. III. Chap. XXVII. page 380. (Ioannis, Mainz history, p. 200b.) [Trans. S. Docking]"

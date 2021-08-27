@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 27
 translations:
   English: "J. ELLENDORF, The holy Bernard of Clairvaux and the hierarchy of his time. (Essen, 1837. 8vo.) pp. 199-218: Appendix. St. Hildegard. [Trans. J. Bock]"

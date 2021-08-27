@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 47
 translations:
   English: "G. LECHLER, Johann von Wiclif and the pre-history of the Reformation. II. (Leipzig,

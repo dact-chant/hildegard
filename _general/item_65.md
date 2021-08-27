@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 65
 translations:
   English: "BERN[ard]  PEZ. New Thesaurus of histories or ancient treasures, principally ecclesiastical, especially from German libaries, a collection very recently adorned (Augsburg [and Graz] 1721- 29) See [Vol.] II. coll. 519. (Stilting, no. 186.) [Trans. S. Docking]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 17
 translations:
   English: "GUIL. CAVE, Literary history of ecclesiastical writing, II. (Oxford, 1740. fol.) p.684 [Hildegard mentioned] at the year 1170. [Trans. J. Bock]"

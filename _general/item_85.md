@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 85
 translations:
   English: "CHR. SAXIUS, Literary Onomasticon. (Utrecht, 1775 8vo.) Vol. II. p. 241. [Trans. S. Docking]"

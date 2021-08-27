@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 108
 translations:
   English: "NIKLAS VOGT, Rhenish tales and legends. (Frankfurt on the Main, 1817, 8vo.) I.

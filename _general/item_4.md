@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 4
 translations:
   English: "JOA. H. ANDREÆ, Bad Kreuznach in the Palatinate with its shire [illustrated]. (Heidelberg: 1784, 4to), pp. 214-217."

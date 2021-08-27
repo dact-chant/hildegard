@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 107
 translations:
   English: "J. VOGT, Historical-critical catalogue of rare books. (Hamburg, 1732, 38, 47, 53.8vo.) p. 344. [Trans. J. Bock]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 2
 translations:
   English: "Authentic Testimony concerning the translation of some relics. Aug. 10, 1592.  (...\"item: three bones of St. Hildegard...item: one of her ribs and a piece of her spine\".) [Trans. J. Docking]"

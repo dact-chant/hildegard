@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 4
 translations:
   English: "CHRISTOPH. MEINERS. \"Commentary on the life, writings and attributes of St Hildegard.\" Reprinted with permission in <em>Societ. Reg. Scient. concessu.</em> d. I Nov. 1794. (<em>Commentt. Soc. Reg. Gœtt.</em> (1795): 69 -93.) Compare [with] <em>Gœtt. gelehrt. Anzeig.</em> (1794): 1849-1851.  [Trans. J. Docking and J. Bain]"

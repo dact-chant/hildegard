@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 79
 translations:
   English: "Dr. F. A. REUSS, The life and writings of the famous St. Hildegard. (Migne, vol. 197, coll. 139-144.) [Trans. J. Bock]"

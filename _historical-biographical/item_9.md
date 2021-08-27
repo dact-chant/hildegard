@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 9
 translations:
   English: "Proceedings of the enquiry concerning the virtues and miracles (of St. Hildegard). From the manuscript of the Augustinian convent of Böddecke, in the Diocese of Paderborn (<em>Acta Sanctorum</em> already cited, pp.697-701). Compare the title on p.630 [in the <em>Acta Sanctorum</em>]: 

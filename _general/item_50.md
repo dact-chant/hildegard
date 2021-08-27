@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 50
 translations:
   English: "Papally confirmed freedoms, including the protection and the patronage of the noble free holy monastic foundation at St. Rupertsberg and Eibingen, at the time of the reverend, high-born freewoman Maria Antoinette Muhl of Ulm (abbess) and Anna Catherina of Kerpen (prioress). Koblenz, 1732. Folio 7, pp. 5 bll. Imperial and archiepiscopal confirmed liberties, etc. of the Rupertsberg monastery. Koblenz, 1732. 23 pp. [Trans. J. Bock]"

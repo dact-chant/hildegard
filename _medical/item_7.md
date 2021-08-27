@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 7
 translations:
   English: "DR. H. HÆSER, Textbook on the History of Medicine. Vol. I. (Jena, 1853. 8vo.) pp. 273, 277<sup>4</sup>). (1st edition: p. 184.) [Trans. J. Bain]"

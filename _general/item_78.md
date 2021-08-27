@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 78
 translations:
   English: "HERZOG, Reliable Encyclopedia for Protestant Theology and [the Protestant] Church, VI., 1856, p. 95: REUCHLIN, \"Hildegard\". [Trans. J. Bock]"

@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 6
 translations:
   English: "Document Book...Coblenz and Trier. 

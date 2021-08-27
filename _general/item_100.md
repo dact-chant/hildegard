@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 100
 translations:
   English: "(G. TER STEEGEN), Exquisite biographies of Holy Souls. In which noted chiefly the inner guidance of God on them and the varied dispensations of his grace in them;. . . from different credible documents. Volume 3. 3rd edition. (Essen: Z. Bädeker, 1786. 4to.) pp. 475-508: XXIII. Piece: including the life of the holy Hildegard. (Following Scivias, Paris

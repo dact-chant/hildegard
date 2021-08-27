@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 112
 translations:
   English: "J. WEITZEL, Rhine journey. I ( Wiesbaden, 1825. 8vo.) pp. 270-310. [Trans. J. Bock]"

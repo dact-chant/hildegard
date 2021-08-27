@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 114
 translations:
   English: "S.A. WÜRDTWEIN, New supporting documents for the selection of German ecclesiastical 

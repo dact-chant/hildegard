@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 3
 translations:
   English: "Concerning the published and manuscripts of the works by St Hildegard on medicine and natural history. By Dr. C. JESSEN, in Eldena by Greifswald. (Reports of the Imperial Academy of Science, Mathematics and Natural History. Vol. 15, issue 1, 1862. Jänner. 1st part. Vienna, 1862. Gr. 8vo. pp. 97-116.) Compare Gazette for accounts of early German History, 1875, p. 175. [Trans. J. Docking and J. Bain]"

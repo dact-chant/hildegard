@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 8
 translations:
   English: "Sermon on St. Hildegard’s commemoration at the occasion and transfer of her relics. Mass said in the church. Mass said in the church in Eibingen, on the 17th September 1857 by Peter Joseph Blum, Bishop in Limburg… Mainz, E. Schröder. 8vo. 23 pp. [Trans. J. Bock]"

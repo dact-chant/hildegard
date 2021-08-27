@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 87
 translations:
   English: "Dr. H. B. SCHINDLER, The superstition of the Middle Ages. (Breslau, 1858. 8vo.) p. 251-

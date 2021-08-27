@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 14
 translations:
   English: "Magazine published by the association for research on Rhenish history and antiquities in Mainz. Vol. I. (Mainz, 1845—1851. 8vo.) p. 44. \"They (the nuns living in the Rubertsberg abbey, located on the left shore of the Nahe [river] before Bingen) hardly had time (upon the arrival of the Swedish army under the command of Ulrich from Hanau) to take along their documents, relics and treasures. Among them the curious artwork that is now owned by a lady in Winweiler: the comb, which Hildegard the lady of the castle in Böckelheim wore, before she became a nun; at a time where her pretty hair hadn’t been cut.” A cement replica of this comb, which was taken from Eibingen in 1814, can nowadays be found in the local antiquity museum. [Trans. J. Bock]"

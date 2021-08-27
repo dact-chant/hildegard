@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 43
 translations:
   English: "F. X. KRAUS, Textbook on church history. II. (Trier, 1873. 8vo.) p. 358, § 10. [Trans. J. Bock]"

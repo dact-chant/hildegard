@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 94
 translations:
   English: "MARGARETHA VON STAFFEL (Adam von Allendorf’s widow † 1471 in the abbey

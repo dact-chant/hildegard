@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 21
 translations:
   English: "HERM. CORNER (1402- 1437), New chronicle drawn up until the year 1435, [reference to Hildegard found] at the year 1140. (Stilting, no. 196.) [Trans. J. Bain]

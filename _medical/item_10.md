@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 10
 translations:
   English: "A. HECKEL, The noblest women of early German history. Vol. II (Nuremburg: 1826. 8vo.) p. 51. [Trans. J. Bain]"

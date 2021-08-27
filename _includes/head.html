@@ -5,38 +5,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
   <title>
-    {% if page.title == "Home" %}
+    {% if page.title == "Home" -%}
       {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
+    {% else -%}
       {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
+    {% endif -%}
   </title>
 
-  {% if page.url and site.baseurl %}
+  {% if page.url and site.baseurl -%}
   <link rel="canonical" href="{{ page.url | absolute_url }}">
-  {% endif %}
+  {% endif -%}
 
   <link rel="stylesheet" href="{{ '/public/css/poole.css' | absolute_url }}">
   <link rel="stylesheet" href="{{ '/public/css/syntax.css' | absolute_url }}">
   <link rel="stylesheet" href="{{ '/public/css/lanyon.css' | absolute_url }}">
   <link rel="stylesheet" href="{{ '/public/css/hildegard.css' | absolute_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
-
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/public/apple-touch-icon-precomposed.png' | absolute_url }}">
   <link rel="shortcut icon" href="{{ '/public/favicon.ico' | absolute_url }}">
-
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | absolute_url }}">
   
-  {% if site.google_analytics_id %}
+  {% if site.google_analytics_id -%}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', '{{ site.google_analytics_id }}');
   </script>
-  {% endif %}
-  
+  {% endif -%}
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script src='{{ site.baseurl }}/public/js/search.js'></script>
 </head>

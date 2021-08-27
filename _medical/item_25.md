@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 25
 translations:
   English: "IN DR. B. HIRSCHEL, History of Medicine (Dresden, 1843. 8vo.) p. 107; E. ISENSEE, The History of Medicine, I. (Berlin, 1840. 8vo.) p. 206; M. B. LESSING, Handbook on the History of Medicine, I. (Berlin, 1838. 8vo.) p. 243; Dr. J. M. LEUPOLDT, The History of Medicine (Berlin, 1863. 8vo.) p. 228; Dr. E. MORWITZ, History of Medicine (Leipzig, 1849. 8vo.) p. 108, and indeed in many other books Hildegard is simply referred to. [Trans. J. Docking and J. Bain]"

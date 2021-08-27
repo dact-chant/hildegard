@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 1
 translations:
   English: "Inventory and Census of the monastery of St. Rupert from the years 1147-1270. (Rupertsberg Traditions- and Stock Book, in the Royal State Library in Idstein).

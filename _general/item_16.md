@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 16
 translations:
   English: "J[ohann] L[udolph] BÜNEMANN, Catalogue of [parchment and paper] manuscripts [held, as well as of books about the invention of typography to the year 1500 and thence to the year 1560, and further of rare imprints]. (Minden, 1732. 8vo.) p. 90. [Trans. J. Bain]"

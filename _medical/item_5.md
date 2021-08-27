@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 5
 translations:
   English: "J. H. DIERBACH, Discoveries in medical subjects. (Heidelberg, 1837. 1842. 8vo.) [Trans. J. Bain]"

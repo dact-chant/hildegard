@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 58
 translations:
   English: "DR. AUG. NEANDER, General history of the Christian religion and church. (V. I. Hamburg, 1841. 8vo.) pp. 417-423. Compare Vol. 2. p. 1150: Hildegard, her great veneration, admonishments, and advisements, condemnatory sermons against the clergy, and prognostications. [Trans. J. Bock and J. Bain]"

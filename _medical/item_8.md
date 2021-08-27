@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 8
 translations:
   English: "A. V. HALLER, Botanical Library. I. (Zurich, 1771. 4to.) p. 218. [Trans. J. Bain]"

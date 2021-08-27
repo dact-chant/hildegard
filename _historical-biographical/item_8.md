@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 8
 translations:
   English: "ANTONIO PAGI, Historico-Chronological Criticisms of Cesare Baronio’s Ecclesiastical Annals.  Vol. IV. (Geneva, 1727 fol.) p. 654, [reference to Hildegard] at the year 1178, n. VIII The Death of St Hildegard. (Stilting, no. 203.)"

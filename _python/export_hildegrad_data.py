@@ -85,6 +85,7 @@ def dbToJekyllItems(dbConnection):
     
     line="---\n"
     itemFile.write(line)
+    itemFile.write("layout: item\n")
     line="number: "+str(item[2])+"\n"
     itemFile.write(line)
     line="translations:\n"

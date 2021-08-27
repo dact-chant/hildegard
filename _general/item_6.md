@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 6
 translations:
   English: "G. ARNOLD, History & description of mystical theology, or esoteric Theosophy. ([Latin edition:] Frankfurt, 1702. 8vo. German [edition]: 1703.) p. 280. [Trans. J. Bock]

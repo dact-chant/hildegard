@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 105
 translations:
   English: "Sequence for St. Hildegard, authored by Trithemius. Compare SILBERNAGEL, Abbot Trithemius.(Landshut, 1868. 8vo.) p. 240. [Trans. J. Bain]

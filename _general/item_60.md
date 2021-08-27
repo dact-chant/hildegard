@@ -1,4 +1,5 @@
 ---
+layout: item
 number: 60
 translations:
   English: "J. G. OLEARII, Library of ecclesiastical writings. With preface by [Johann Franz] Buddeus. Vol. I. (Jena, 1711. 4to.) p. 341. [Trans. J. Bain]"
