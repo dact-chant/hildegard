@@ -9,7 +9,7 @@ translations:
 ---
 
 # {{ page.title }}
-[Back to Literature]({{ site.baseurl }}#literature)
+[Back to Literature]({{ site.baseurl }}/#literature)
 ![old book place holder]({{ site.baseurl }}/public/images/old_book_placeholder.jpg)
 
 {% assign items = site.relics | sort: 'number' %}
