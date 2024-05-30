@@ -2,8 +2,8 @@
 title:               Hildegard
 tagline:             '1877 bibliography on the life and works of Hildegard of Bingen (1098-1179)'
 description:         'Hildegard - 1877 bibliography'
-url:                 http://chrisgeroux.xyz # URL with domain name of site e.g. https://mysite.com, should not contain trailing "/"
-baseurl:             /hildegard # base url of site, could be '/' if in the web root directory or "/subdir" if a sub directory
+url:                 https://hildegard-1877bibliography.ca # URL with domain name of site e.g. https://mysite.com, should not contain trailing "/"
+baseurl:             / # base url of site, could be '/' if in the web root directory or "/subdir" if a sub directory
 #paginate:            5
 permalink:           pretty
 

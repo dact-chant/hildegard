@@ -9,7 +9,7 @@ translations:
 ---
 
 # {{ page.title }}
-[Back to Literature]({{ site.baseurl }}#literature)
+[Back to Literature]({{ site.baseurl }}/#literature)
 ![old book place holder]({{ site.baseurl }}/public/images/apotheke.png)
 
 {% assign items = site.medical | sort: 'number' %}
