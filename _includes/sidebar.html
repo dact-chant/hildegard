@@ -5,7 +5,8 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+    <p>{{ site.title }}
+</p>
   </div>
 
   <nav class="sidebar-nav">
@@ -24,10 +25,13 @@
         {% endif -%}
       {% endif -%}
     {% endfor -%}
-    <h4>Literature</h4>
+    <!-- <h4>Literature</h4> -->
+    <div class="sidebar-item">
+      <p> Literature </p>
+    </div>
     {% assign sections=site.sections | sort: 'order' -%}
     {% for item in sections -%}
-      
+
       {% assign item_url = "/sections/" -%}
       {% assign item_name = item.path | split: "/" | last |split: "." | first -%}
       {% assign item_url = item_url | append: item_name -%}
@@ -35,12 +39,12 @@
     <a class="sidebar-nav-item{% if page.url == item_url %} active{% endif %}" href="{{ site.baseurl }}{{ item_url }}">{{ item.title }}</a>
     {% endfor -%}
   </nav>
-  <div class="sidebar-item">
-    
+  <div class="sidebar-item2">
+
     <form action="{{ site.baseurl }}/search/" id="form" method="get">
       <input type="text" placeholder="search site literature" id="search-box" name="query">
     </form>
-    
+
     <!--
     <form style="" method="get" id="search-google" action="https://www.google.com/search" target="_blank">
       <input type="hidden" name="sitesearch" value="{{ site.url }}{{ site.baseurl }}" />
@@ -50,7 +54,7 @@
     <!--<script async src="https://cse.google.com/cse.js?cx=6eedfaa3ca8ca1a85"></script>
     <div class="gcse-search"></div>-->
   </div>
-  <div class="sidebar-item">
+  <div class="sidebar-item2">
   <p>
   Site last updated:<br/> {{ site.time | date_to_long_string }}
   </p>
