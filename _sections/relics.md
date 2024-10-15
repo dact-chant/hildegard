@@ -10,7 +10,16 @@ translations:
 
 # {{ page.title }}
 [Back to Literature]({{ site.baseurl }}/#literature)
-![old book place holder]({{ site.baseurl }}/public/images/old_book_placeholder.jpg)
+
+<figure>
+  <img src = "{{site.baseurl}}/public/images/hildegard-relics.jpeg"
+    alt = "Image of Hildegard shrine at the Katholische Pfarrkirche St. Hildegard, Rüdesheim am Rhein">
+    <figcaption> Hildegard shrine at the Katholische Pfarrkirche St. Hildegard, Rüdesheim am Rhein</figcaption>
+</figure>
+
+
+<!--
+ ![old book place holder]({{ site.baseurl }}/public/images/old_book_placeholder.jpg) -->
 
 {% assign items = site.relics | sort: 'number' %}
 {% include section.html %}
