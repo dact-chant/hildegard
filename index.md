@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+<figure style="width:50%;float:left;">
+  <img src = "{{site.baseurl}}/public/images/Antonius_van_der_Linde,_1874.jpg"
+  alt = "Photograph of Antonius van der Linde from 1874">
+  <figcaption> Photograph of Antonius van der Linde (by Hanns Hanfstängl, 1874) </figcaption>
+</figure>
+
 In 1877 **Antonius van der Linde** (also, *von* der Linde), librarian and author, published a catalogue of manuscripts held at the then-named Königliche Landesbibliothek in Wiesbaden, the state library where he worked. The book describes 78 manuscripts owned by the library, most significantly two including works by Hildegard of Bingen (1098-1179), and another two of works by Elisabeth of Schönau (c.1129-1165). The most important manuscript still owned by that library (now called the Hochschul- und Landesbibliothek RheinMain) is the *Riesencodex* (Handschrift 2) containing most of the works, including the music, of Hildegard.
 
 More than half of the book by van der Linde is devoted to a description of the Riesencodex, but it also includes a rather quirky 15-page, partially annotated bibliography of editions and translations of the works of Hildegard as well as secondary literature about her and about her output. Although other bibliographies have appeared since (listed below), the document itself acts as a compelling witness to the state of research on Hildegard before the 1879 publication of the monumental life and works of Hildegard by J. Ph. Schmelzeis, which was to become the standard reference for studies on Hildegard for many decades.
@@ -35,4 +41,3 @@ Since neither van der Linde's bibliography nor the items in it were widely avail
 **Lauter, Werner**. 1984. *Hildegard-Bibliographie: Wegweiser zur Hildegard-literatur*. Vol. II: 1970-1982. Alzey: Verlag der Rheinhessischen Druckwerkstätte.
 
 **Aris, Marc-Aeilko; Embach, Michael; Lauter, Werner; Müller, Irmgard; Staab, Franz; Steinle, Scholastica OSB**. 1998. Hildegard von Bingen. *Internationale wissenschaftliche Bibliographie unter Verwendung der Hildegard-Bibliographie von Werner Lauter*. Quellen und Abhandlungen zur mittelrheinischen Kirchengeschichte, Bd. 84. Mainz: Selbstverlag der Gesellschaft für mittelrheinische Kirchengeschichte.
-
