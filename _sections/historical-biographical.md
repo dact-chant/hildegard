@@ -13,7 +13,7 @@ translations:
 <figure>
 <img src = "{{site.baseurl}}/public/images/relief-lower-res.jpg"
 alt = "A relief depicting Hildegard's profession">
-<figcaption> A relief depicting Hildegard's profession, <br>a copy of the relief in the Binger Rochuskapelle by Jakob Busch 1898 </figcaption>
+<figcaption> A relief depicting Hildegard's admission to the Abbey of Disibodenberg, a copy of the relief in the Binger Rochuskapelle by Jakob Busch 1898 </figcaption>
 </figure>
 
 

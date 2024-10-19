@@ -14,7 +14,7 @@ translations:
 <figure>
   <img src = "{{site.baseurl}}/public/images/hildegard-relics.jpeg"
     alt = "Image of Hildegard shrine at the Katholische Pfarrkirche St. Hildegard, Rüdesheim am Rhein">
-    <figcaption> Hildegard shrine at the Katholische Pfarrkirche St. Hildegard, Rüdesheim am Rhein</figcaption>
+    <figcaption> Hildegard shrine at the Katholische Pfarrkirche St. Hildegard, Eibingen.</figcaption>
 </figure>
 
 
