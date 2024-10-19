@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This site was originally created by **Jennifer Bain**, Ph.D., Professor at the Fountain School of Performing Arts at Dalhousie University with the able assistance of **Laura Harris**, and the Web Authoring Group at Dalhousie University. The current iteration was developed by **Chris Geroux** at ACENET and **Dr. Anna de Bakker** at McGill and Dalhousie Universities.**James Docking** and **Julie Bock** provided many of the English translations, and **Thomas Harding** and **Zack Harrison** found many of the digitized copies of items listed in the bibliography. This project has been supported by the Social Sciences and Humanities Research Council of Canada.
+This site was originally created by **Jennifer Bain**, Ph.D., Professor at the Fountain School of Performing Arts at Dalhousie University with the able assistance of **Laura Harris**, and the Web Authoring Group at Dalhousie University. The current iteration was developed by **Chris Geroux** at ACENET and **Dr. Anna de Bakker** at McGill and Dalhousie Universities. **James Docking** and **Julie Bock** provided many of the English translations, and **Thomas Harding** and **Zack Harrison** found many of the digitized copies of items listed in the bibliography. This project has been supported by the Social Sciences and Humanities Research Council of Canada.
 
 <!--
 <img src = "{{site.baseurl}}/public/images/sshrc-logo.jpg">
