@@ -34,7 +34,7 @@ Since neither van der Linde's bibliography nor the items in it were widely avail
 
 **Linde, A[ntonius] v[an] d[er]**. 1877. *Die Handschriften der Königlichen Landesbibliothek in Wiesbaden*. Wiesbaden: Hofbuchhandlung von Edmund Rodrian.
 
-  URL: [https://catalog.hathitrust.org/Record/009018699](https://catalog.hathitrust.org/Record/009018699)
+URL: [https://catalog.hathitrust.org/Record/009018699](https://catalog.hathitrust.org/Record/009018699)
 
 **Roth, F. W[ilhelm] E[mil]**. 1886 and 1887. "Zur Bibliographie der hl. Hildegardis, Meisterin des Klosters Rupertsberg bei Bingen O.S.B." *Quartalblätter des historischen Vereins für das Grossherzogtum Hessen* (1886): 221-233 and (1887): 78-88.
 
@@ -43,3 +43,5 @@ Since neither van der Linde's bibliography nor the items in it were widely avail
 **Lauter, Werner**. 1984. *Hildegard-Bibliographie: Wegweiser zur Hildegard-literatur*. Vol. II: 1970-1982. Alzey: Verlag der Rheinhessischen Druckwerkstätte.
 
 **Aris, Marc-Aeilko; Embach, Michael; Lauter, Werner; Müller, Irmgard; Staab, Franz; Steinle, Scholastica OSB**. 1998. Hildegard von Bingen. *Internationale wissenschaftliche Bibliographie unter Verwendung der Hildegard-Bibliographie von Werner Lauter*. Quellen und Abhandlungen zur mittelrheinischen Kirchengeschichte, Bd. 84. Mainz: Selbstverlag der Gesellschaft für mittelrheinische Kirchengeschichte.
+
+**Bain, Jennifer, et al**. 2022. *Hildegard of Bingen Music Research Guide.* URL: [https://www.zotero.org/groups/2080999/hildegard_of_bingen_music_research_guide](https://www.zotero.org/groups/2080999/hildegard_of_bingen_music_research_guide). Open-access bibliography of editions and scholarly literature pertaining to Hildegard’s music. For more information, please see [http://dact-chant.ca/hildegard.html](http://dact-chant.ca/hildegard.html)
