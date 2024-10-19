@@ -14,7 +14,7 @@ translations:
 <figure>
   <img src = "{{site.baseurl}}/public/images/Physicas-lower-res.jpg"
   alt="A print copy of Hildegard's Physicas">
-  <figcaption> A print copy of Physicas (Strasbourg, 1803) at the Hildegard Museum in Bingen</figcaption>
+  <figcaption> A print copy of Physica (Strasbourg, 1803) at the Hildegard Museum in Bingen</figcaption>
 </figure>
 
 <!--

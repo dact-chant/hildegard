@@ -1,11 +1,11 @@
 ---
 layout: section
-title: Monographical
+title: Monographs
 order: 1
 number: I
 name: Monografisches
 translations:
-  - english: monographical
+  - english: Monographs
 ---
 
 # {{ page.title }}
